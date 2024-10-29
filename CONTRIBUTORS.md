@@ -1,3 +1,8 @@
+#### Name: Jessica
+ - Place: Kathmandu, Nepal
+ - Bio: Aspiring cloud associate
+ - GitHub: https://github.com/jesca20
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
